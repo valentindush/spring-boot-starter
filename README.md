@@ -1,6 +1,6 @@
-# Spring Boot 3 Project with Spring Security and Swagger UI Integration
+# Spring Boot 3 Project with Spring Security, Jakarta Validation and Swagger UI Integration
 
-This project is a Spring Boot 3 web application that integrates Spring Security for authentication and authorization,
+This template is a Spring Boot 3 web application template that integrates Spring Security for authentication and authorization,
 and Swagger UI for API documentation using OpenAPI 3.
 
 ## Prerequisites
@@ -12,12 +12,12 @@ and Swagger UI for API documentation using OpenAPI 3.
 
 1. Clone this repository.
    ```
-   git clone https://github.com/pasan1/Spring-Boot-3-with-spring-security-and-swagger-ui.git
+   git clone https://github.com/valentindush/spring-boot-starter.git
    ```
 
 2. Navigate to the project folder.
     ```
-   cd spring-boot-security-swagger
+   cd spring-boot-starter
    ```
 
 3. Build the project.
@@ -35,6 +35,7 @@ and Swagger UI for API documentation using OpenAPI 3.
 ## Features
 
 - Spring Security for authentication and authorization.
+- Jakarta Validation
 - Swagger UI for API documentation using OpenAPI 3.
 
 ## Usage
@@ -53,9 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Spring Security](https://spring.io/projects/spring-security)
 - [Swagger UI](https://swagger.io/tools/swagger-ui/)
 - [OpenAPI 3](https://swagger.io/specification/)
-- [Spring Boot 3 with Spring Security](https://www.youtube.com/watch?v=KxqlJblhzfI)
 - [Spring Boot 3 Swagger UI Integration](https://www.bezkoder.com/spring-boot-swagger-3/)
-
-## Contact
-
-- [Pasan Abeysekara](https://pasanabeysekara.com/)
